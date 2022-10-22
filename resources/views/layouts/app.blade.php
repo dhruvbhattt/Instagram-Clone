@@ -59,7 +59,7 @@
                                 </a>
 
                                 <div class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                                <a  class="dropdown-item" href="/profile/{{ $post->user->id }}"  style="text-decoration:none;" >
+                                <a  class="dropdown-item" href="/profile/{{ Auth::user()->id }}"  style="text-decoration:none;" >
                                              {{ __('My Profile') }}
                                   </a>
                                     <a class="dropdown-item" href="{{ route('logout') }}"

@@ -8,11 +8,11 @@
 </p>
 <h1>how to install </h1>
 <p>1. Clone it through git clone
-2. run php artisan key:generate
-3. run composer install
-4. run npm install/yarn install
-5. run php artisan migrate
-6. run php artisan storage:link
+2. run php artisan key:generate \n
+3. run composer install \n
+4. run npm install/yarn install \n
+5. run php artisan migrate \n
+6. run php artisan storage:link \n
  </p>
 ## About Laravel
 

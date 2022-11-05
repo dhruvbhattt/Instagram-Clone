@@ -7,13 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 <h1>how to install </h1>
-<p>1. Clone it through git clone
-2. run php artisan key:generate 
-3. run composer install 
-4. run npm install/yarn install 
-5. run php artisan migrate 
-6. run php artisan storage:link 
- </p>
+
+- Clone it through git clone.
+- run php artisan key:generate. 
+- run composer install. 
+- run npm install/yarn install. 
+- run php artisan migrate. 
+- run php artisan storage:link. 
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:

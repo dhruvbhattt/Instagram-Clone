@@ -9,8 +9,8 @@
 <h1>how to install </h1>
 
 - Clone it through git clone.
-- run php artisan key:generate. 
 - run composer install. 
+- run php artisan key:generate. 
 - run npm install/yarn install. 
 - run php artisan migrate. 
 - run php artisan storage:link. 

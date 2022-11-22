@@ -6,6 +6,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+<h1>how to install </h1>
+
+- Clone it through git clone.
+- run composer install. 
+- run php artisan key:generate. 
+- run npm install/yarn install. 
+- run php artisan migrate. 
+- run php artisan storage:link. 
 
 ## About Laravel
 
